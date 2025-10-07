@@ -10,7 +10,8 @@ pip install -e .
 * Configure your API keys in the environment and in the `llm.py` file.
 
 **2. Insert Data and Query**
-To experiment with your own data:
+
+- To experiment with your own data:
 * Place your text file (e.g., text.txt) in the project directory.
 * Run the framework:
 ```bash
