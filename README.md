@@ -3,7 +3,7 @@
 ## 🚀 **Installation**
 ```bash
 cd AGRAG
-pip install -r requirements.txt
+pip install -e .
 ```
 ## ⚙️ **Quick Start**
 **1. Setup API Keys**
